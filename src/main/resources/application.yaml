@@ -1,11 +1,11 @@
 server:
-    port:8080
+    port: 8080
 
 spring:
     datasource:
-        url: jdbc:postgresql://localhost:5432/lojagames
-        username: postgres
-        password: dafne0904
+        url: jdbc:postgresql://dpg-csu8vg56l47c73dlogtg-a.oregon-postgres.render.com:5432/lojagamesbd
+        username: lojagamesbd_user
+        password: I3IN2G2JwrIuvEaXxgTbHBrHX1Ycgs4g
         driver-class-name: org.postgresql.Driver
         initialize: true
     
