@@ -13,5 +13,5 @@ RUN ./mvnw package
 
 RUN ls -l ./target
 
-CMD ["java", "-jar", "target/sitebd-0.0.1-SNAPSHOT.war"]
+CMD ["java", "-jar", "target/projetop2-0.0.1-SNAPSHOT.war"]
 
