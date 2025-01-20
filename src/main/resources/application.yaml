@@ -3,9 +3,9 @@ server:
 
 spring:
     datasource:
-        url: jdbc:postgresql://dpg-csu8vg56l47c73dlogtg-a.oregon-postgres.render.com:5432/lojagamesbd
-        username: lojagamesbd_user
-        password: I3IN2G2JwrIuvEaXxgTbHBrHX1Ycgs4g
+        url: jdbc:postgresql://dpg-cu7barjv2p9s73bf6h20-a.oregon-postgres.render.com:5432/lojagamesbd_s8ed
+        username: lojagamesbd_s8ed_user
+        password: FqBW7B068GZzZuGpegIOKJOwqdCUDekZ
         driver-class-name: org.postgresql.Driver
         initialize: true
     
